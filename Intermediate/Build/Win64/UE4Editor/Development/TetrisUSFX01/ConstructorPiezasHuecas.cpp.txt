@@ -1,0 +1,20 @@
+C:\Users\HP VICTUS\Desktop\UNIVERSIDAD\TERCER SEMESTRE\SIS457\LABORATORIO\TetrisUSFX01-master_BuilderPieza_BoardSingleton_EscenarioFactory\Intermediate\Build\Win64\UE4Editor\Development\TetrisUSFX01\Definitions.TetrisUSFX01.h
+C:\Users\HP VICTUS\Desktop\UNIVERSIDAD\TERCER SEMESTRE\SIS457\LABORATORIO\TetrisUSFX01-master_BuilderPieza_BoardSingleton_EscenarioFactory\Source\TetrisUSFX01\ConstructorPiezasHuecas.h
+C:\Users\HP VICTUS\Desktop\UNIVERSIDAD\TERCER SEMESTRE\SIS457\LABORATORIO\TetrisUSFX01-master_BuilderPieza_BoardSingleton_EscenarioFactory\Source\TetrisUSFX01\ConstructorPiezas.h
+C:\Users\HP VICTUS\Desktop\UNIVERSIDAD\TERCER SEMESTRE\SIS457\LABORATORIO\TetrisUSFX01-master_BuilderPieza_BoardSingleton_EscenarioFactory\Intermediate\Build\Win64\UE4Editor\Inc\TetrisUSFX01\ConstructorPiezas.generated.h
+C:\Users\HP VICTUS\Desktop\UNIVERSIDAD\TERCER SEMESTRE\SIS457\LABORATORIO\TetrisUSFX01-master_BuilderPieza_BoardSingleton_EscenarioFactory\Intermediate\Build\Win64\UE4Editor\Inc\TetrisUSFX01\ConstructorPiezasHuecas.generated.h
+C:\Users\HP VICTUS\Desktop\UNIVERSIDAD\TERCER SEMESTRE\SIS457\LABORATORIO\TetrisUSFX01-master_BuilderPieza_BoardSingleton_EscenarioFactory\Source\TetrisUSFX01\PiezaBase.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\INCLUDE\functional
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\INCLUDE\xmemory
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\INCLUDE\limits
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\INCLUDE\cfloat
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\INCLUDE\cwchar
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\INCLUDE\cstdio
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\INCLUDE\isa_availability.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\INCLUDE\xutility
+C:\Users\HP VICTUS\Desktop\UNIVERSIDAD\TERCER SEMESTRE\SIS457\LABORATORIO\TetrisUSFX01-master_BuilderPieza_BoardSingleton_EscenarioFactory\Source\TetrisUSFX01\Block.h
+C:\Users\HP VICTUS\Desktop\UNIVERSIDAD\TERCER SEMESTRE\SIS457\LABORATORIO\TetrisUSFX01-master_BuilderPieza_BoardSingleton_EscenarioFactory\Intermediate\Build\Win64\UE4Editor\Inc\TetrisUSFX01\Block.generated.h
+C:\Users\HP VICTUS\Desktop\UNIVERSIDAD\TERCER SEMESTRE\SIS457\LABORATORIO\TetrisUSFX01-master_BuilderPieza_BoardSingleton_EscenarioFactory\Source\TetrisUSFX01\PiezaInterfaz.h
+C:\Users\HP VICTUS\Desktop\UNIVERSIDAD\TERCER SEMESTRE\SIS457\LABORATORIO\TetrisUSFX01-master_BuilderPieza_BoardSingleton_EscenarioFactory\Intermediate\Build\Win64\UE4Editor\Inc\TetrisUSFX01\PiezaInterfaz.generated.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\INCLUDE\vector
+C:\Users\HP VICTUS\Desktop\UNIVERSIDAD\TERCER SEMESTRE\SIS457\LABORATORIO\TetrisUSFX01-master_BuilderPieza_BoardSingleton_EscenarioFactory\Intermediate\Build\Win64\UE4Editor\Inc\TetrisUSFX01\PiezaBase.generated.h

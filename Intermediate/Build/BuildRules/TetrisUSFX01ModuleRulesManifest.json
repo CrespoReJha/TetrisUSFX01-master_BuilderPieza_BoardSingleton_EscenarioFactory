@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\HP VICTUS\\Desktop\\UNIVERSIDAD\\TERCER SEMESTRE\\SIS457\\LABORATORIO\\TetrisUSFX01-master_BuilderPieza_BoardSingleton_EscenarioFactory\\Source\\TetrisUSFX01\\TetrisUSFX01.Build.cs",
+		"C:\\Users\\HP VICTUS\\Desktop\\UNIVERSIDAD\\TERCER SEMESTRE\\SIS457\\LABORATORIO\\TetrisUSFX01-master_BuilderPieza_BoardSingleton_EscenarioFactory\\Source\\TetrisUSFX01.Target.cs",
+		"C:\\Users\\HP VICTUS\\Desktop\\UNIVERSIDAD\\TERCER SEMESTRE\\SIS457\\LABORATORIO\\TetrisUSFX01-master_BuilderPieza_BoardSingleton_EscenarioFactory\\Source\\TetrisUSFX01Editor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

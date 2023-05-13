@@ -1,0 +1,5 @@
+C:\Users\HP VICTUS\Desktop\UNIVERSIDAD\TERCER SEMESTRE\SIS457\LABORATORIO\TetrisUSFX01-master_BuilderPieza_BoardSingleton_EscenarioFactory\Intermediate\Build\Win64\UE4Editor\Development\TetrisUSFX01\Definitions.TetrisUSFX01.h
+C:\Users\HP VICTUS\Desktop\UNIVERSIDAD\TERCER SEMESTRE\SIS457\LABORATORIO\TetrisUSFX01-master_BuilderPieza_BoardSingleton_EscenarioFactory\Source\TetrisUSFX01\EscenarioPasto.h
+C:\Users\HP VICTUS\Desktop\UNIVERSIDAD\TERCER SEMESTRE\SIS457\LABORATORIO\TetrisUSFX01-master_BuilderPieza_BoardSingleton_EscenarioFactory\Source\TetrisUSFX01\Escenario.h
+C:\Users\HP VICTUS\Desktop\UNIVERSIDAD\TERCER SEMESTRE\SIS457\LABORATORIO\TetrisUSFX01-master_BuilderPieza_BoardSingleton_EscenarioFactory\Intermediate\Build\Win64\UE4Editor\Inc\TetrisUSFX01\Escenario.generated.h
+C:\Users\HP VICTUS\Desktop\UNIVERSIDAD\TERCER SEMESTRE\SIS457\LABORATORIO\TetrisUSFX01-master_BuilderPieza_BoardSingleton_EscenarioFactory\Intermediate\Build\Win64\UE4Editor\Inc\TetrisUSFX01\EscenarioPasto.generated.h
